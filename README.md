@@ -4,7 +4,7 @@
 
 ![bmi2](https://github.com/Althafkv/BMI-React/assets/114138647/26b9668e-4ef5-4e18-ac7b-ef544d3893f0)
 
-Technology Used : 
+Technologies Used : 
   - material ui
   - react bootstrap
   - bootstrap
